@@ -1,0 +1,11 @@
+{
+  "images" : [
+    { "idiom" : "universal", "scale" : "1x", "filename" : "ExtremisLogo.png"    },
+    { "idiom" : "universal", "scale" : "2x", "filename" : "ExtremisLogo@2x.png" },
+    { "idiom" : "universal", "scale" : "3x", "filename" : "ExtremisLogo@3x.png" }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
